@@ -37,19 +37,19 @@
                     </svg>
                     <span>03 - Private</span>
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
+                <a href="04-collaboration.php" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
                     <span>04 - Collaboration</span>
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
+                <a href="05-parameters.php" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
                     <span>05 - Parameters</span>
                 </a>
-                <a href="" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
+                <a href="06-extends.php" class="flex gap-4 bg-black/60 text-yellow-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[340px]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
                     </svg>
